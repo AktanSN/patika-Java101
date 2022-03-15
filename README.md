@@ -3,8 +3,9 @@
 ````
 Patika.dev Java101 derslerindeki ödevleri içeren repository.
 ````
-
-### Practise
+<table><tr><td valign="top" width="50%">
+  
+### Pratikler
 <div >  
 <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/NotOrtalamasi.java" style="color:#5489ef;">1-) Not ortalaması</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/KdvTutari.java" style="color:#5489ef;">2-) Kdv Tutarını </a>
@@ -14,7 +15,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 </div>
 </td><td valign="top" width="50%">
 
-### Homeworks
+### Ödevler
 <div>  
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle endeksi</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ManavKasa.javaa" style="color:#5489ef;">2-) Manav Kasa</a>
