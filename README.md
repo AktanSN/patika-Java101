@@ -17,7 +17,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 
 ### Ödevler
 <div>  
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle endeksi</a>
+<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle indeksi</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ManavKasa.javaa" style="color:#5489ef;">2-) Manav Kasa</a>
 
 
