@@ -12,6 +12,12 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/HipotenusBulma.java" style="color:#5489ef;">3-) Hipotenus bulan</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/Taksimetre.java" style="color:#5489ef;">4-) Taksimetre</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DaireAlanıVeCevresi.java" style="color:#5489ef;">5-) Dairenin alan ve çevresi</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/HesapMakinesi.java" style="color:#5489ef;">6-) Hesap Makinesi</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/KullaniciGirisi.java" style="color:#5489ef;">7-) Kullanıcı Girişi</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SinifGecme.java" style="color:#5489ef;">8-) Sınıfı Geçme Durumu</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/HavaSicakliginaGoreEtkinlik.java" style="color:#5489ef;">9-) Hava Sıcaklığına Göre Etkinlik Önerme</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SayilariBuyuktenKucuge.java" style="color:#5489ef;">10-) Sayıları Büyükten Küçüğe Sıralama</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/BurcBulma.java" style="color:#5489ef;">11-) Burç Bulan Program</a>
 </div>
 </td><td valign="top" width="50%">
 
