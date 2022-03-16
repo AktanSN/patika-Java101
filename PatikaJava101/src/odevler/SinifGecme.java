@@ -2,7 +2,7 @@ package odevler;
 
 import java.util.Scanner;
 
-public class SýnýfGecme {
+public class SinifGecme {
 
 	public static void main(String[] args) {
 		int matematik;
