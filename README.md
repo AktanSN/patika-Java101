@@ -25,9 +25,9 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <div>  
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle indeksi</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ManavKasa.java" style="color:#5489ef;">2-) Manav Kasa</a>
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/UcakBiletiFiyatiHesaplama.java" style="color:#5489ef;">2-) Uçak bileti hesaplama</a>
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/CinZodyakHesap.java" style="color:#5489ef;">2-) Çin Zodyağı hesaplama</a>
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ArtikYil.java" style="color:#5489ef;">2-) Artık yıl hesaplama</a>
+<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/UcakBiletiFiyatiHesaplama.java" style="color:#5489ef;">3-) Uçak bileti hesaplama</a>
+<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/CinZodyakHesap.java" style="color:#5489ef;">4-) Çin Zodyağı hesaplama</a>
+<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ArtikYil.java" style="color:#5489ef;">5-) Artık yıl hesaplama</a>
 
 
 
