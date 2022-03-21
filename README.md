@@ -21,6 +21,8 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/BurcBulma.java" style="color:#5489ef;">11-) Burç Bulan Program</a>
   <h3>Sınıflar Pratik</h3>
   <a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;"> Öğrenci Not Sistemi</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/boksOyunu" style="color:#5489ef;"> Boks Oyunu</a>
+ 
 </div>
 </td><td valign="top" width="50%">
 
