@@ -22,7 +22,7 @@ public class BurcBulma {
 			} else {
 				burc = "Kova";
 			}
-		}else if (ay == 2 && (gün >= 1 && gün <= 28)) {
+		} else if (ay == 2 && (gün >= 1 && gün <= 28)) {
 			if (gün <= 19) {
 				burc = "Kova";
 			} else {
@@ -64,7 +64,7 @@ public class BurcBulma {
 			} else {
 				burc = "Baþak";
 			}
-		}else if (ay == 9 && (gün >= 1 && gün <= 30)) {
+		} else if (ay == 9 && (gün >= 1 && gün <= 30)) {
 			if (gün <= 22) {
 				burc = "Baþak";
 			} else {
