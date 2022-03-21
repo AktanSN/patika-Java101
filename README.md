@@ -20,7 +20,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SayilariBuyuktenKucuge.java" style="color:#5489ef;">10-) Sayıları Büyükten Küçüğe Sıralama</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/BurcBulma.java" style="color:#5489ef;">11-) Burç Bulan Program</a>
   <h3>Sınıflar Pratik</h3>
-  <br><a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;"> Öğrenci Not Sistemi</a>
+  <a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;"> Öğrenci Not Sistemi</a>
 </div>
 </td><td valign="top" width="50%">
 
@@ -31,7 +31,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ManavKasa.java" style="color:#5489ef;">2-) Manav Kasa</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/UcakBiletiFiyatiHesaplama.java" style="color:#5489ef;">3-) Uçak bileti hesaplama</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/CinZodyakHesap.java" style="color:#5489ef;">4-) Çin Zodyağı hesaplama</a>
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ArtikYil.java" style="color:#5489ef;">5-) Artık yıl hesaplama</a>
+<a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ArtikYil.java" style="color:#5489ef;">5-) Artık yıl hesaplama</a>
 <h3>Sınıflar Ödev</h3>
 
 </div>
