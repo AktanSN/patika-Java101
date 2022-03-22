@@ -9,7 +9,7 @@ public class LoopPratik6 {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.print("Sayi giriniz: ");
-		int sayi = scan .nextInt();
+		int sayi = scan.nextInt();
 		
 		int temp = sayi;
 		int basamak;
