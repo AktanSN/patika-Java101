@@ -28,7 +28,7 @@ public class LoopPratik9 {
 								.println("1-Para yatýrma\n" + "2-Para Çekme\n" + "3-Bakiye Sorgula\n" + "4-Çýkýþ Yap");
 						System.out.print("Ýslem secin: ");
 						select = scan.nextInt();
-						
+
 						System.out.println("====================");
 						int tutar;
 						switch (select) {
@@ -75,7 +75,7 @@ public class LoopPratik9 {
 				break;
 
 			}
-			if(select == 4) {
+			if (select == 4) {
 				break;
 			}
 		}
