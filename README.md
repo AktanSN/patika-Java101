@@ -33,8 +33,8 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/PratikMetot3.java" style="color:#5489ef;">23-) Metot Pratik 3</a>
   
   <h3>Sınıflar Pratik</h3>
-  <a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;"> Öğrenci Not Sistemi</a>
-  <br><a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/boksOyunu" style="color:#5489ef;"> Boks Oyunu</a>
+  <a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;">1-) Öğrenci Not Sistemi</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/boksOyunu" style="color:#5489ef;">2-) Boks Oyunu</a>
   <h3>Diziler Pratik</h3>
   <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik1.java" style="color:#5489ef;">1-) Harmonik Ortalama</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik2.java" style="color:#5489ef;">2-) Girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program</a>
@@ -46,7 +46,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 
 <div>  
 <h3>Temel Ödev</h3>
-<br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle indeksi</a>
+<a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/VucutKitleIndeksi.java" style="color:#5489ef;">1-) Vucut kitle indeksi</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ManavKasa.java" style="color:#5489ef;">2-) Manav Kasa</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/UcakBiletiFiyatiHesaplama.java" style="color:#5489ef;">3-) Uçak bileti hesaplama</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/CinZodyakHesap.java" style="color:#5489ef;">4-) Çin Zodyağı hesaplama</a>
@@ -60,7 +60,8 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/MetotOdev2.java" style="color:#5489ef;">12-) Metot Odev 2</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/MetotOdev3.java" style="color:#5489ef;">13-) Metot Odev 3</a>
 <h3>Sınıflar Ödev</h3>
-
+<h3>Diziler Ödev</h3>
+ <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev1.java" style="color:#5489ef;">1-) Dizideki Elemanları Sıralama</a>
 </div>
 
 </td></tr></table>  
