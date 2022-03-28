@@ -19,10 +19,27 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/HavaSicakliginaGoreEtkinlik.java" style="color:#5489ef;">9-) Hava Sıcaklığına Göre Etkinlik Önerme</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SayilariBuyuktenKucuge.java" style="color:#5489ef;">10-) Sayıları Büyükten Küçüğe Sıralama</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/BurcBulma.java" style="color:#5489ef;">11-) Burç Bulan Program</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik1.java" style="color:#5489ef;">12-) Loop Pratik 1</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik2.java" style="color:#5489ef;">13-) Loop Pratik 2</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik3.java" style="color:#5489ef;">14-) Loop Pratik 3</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik4.java" style="color:#5489ef;">15-) Loop Pratik 4</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik5.java" style="color:#5489ef;">16-) Loop Pratik 5</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik6.java" style="color:#5489ef;">17-) Loop Pratik 6</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik7.java" style="color:#5489ef;">18-) Loop Pratik 7</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik8.java" style="color:#5489ef;">19-) Loop Pratik 8</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopPratik9.java" style="color:#5489ef;">20-) Loop Pratik 9</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/PratikMetot1.java" style="color:#5489ef;">21-) Metot Pratik 1</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/PratikMetot2.java" style="color:#5489ef;">22-) Metot Pratik 2</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/PratikMetot3.java" style="color:#5489ef;">23-) Metot Pratik 3</a>
+  
   <h3>Sınıflar Pratik</h3>
   <a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/ogrenciNotSistemi" style="color:#5489ef;"> Öğrenci Not Sistemi</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/boksOyunu" style="color:#5489ef;"> Boks Oyunu</a>
- 
+  <h3>Diziler Pratik</h3>
+  <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik1.java" style="color:#5489ef;">1-) Harmonik Ortalama</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik2.java" style="color:#5489ef;">2-) Girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik3.java" style="color:#5489ef;">3-) "Yıldızlar" ile ekrana "B" harfi yazan program</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik4.java" style="color:#5489ef;">4-) Dizideki tekrar eden çift sayıları bulan program</a>
 </div>
 </td><td valign="top" width="50%">
 
@@ -34,6 +51,14 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/UcakBiletiFiyatiHesaplama.java" style="color:#5489ef;">3-) Uçak bileti hesaplama</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/CinZodyakHesap.java" style="color:#5489ef;">4-) Çin Zodyağı hesaplama</a>
 <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/ArtikYil.java" style="color:#5489ef;">5-) Artık yıl hesaplama</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopOdev1.java" style="color:#5489ef;">6-) Loop Odev 1</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopOdev2.java" style="color:#5489ef;">7-) Loop Odev 2</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopOdev3.java" style="color:#5489ef;">8-) Loop Odev 3</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopOdev4.java" style="color:#5489ef;">9-) Loop Odev 4</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/LoopOdev5.java" style="color:#5489ef;">10-) Loop Odev 5</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/MetotOdev1.java" style="color:#5489ef;">11-) Metot Odev 1</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/MetotOdev2.java" style="color:#5489ef;">12-) Metot Odev 2</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/MetotOdev3.java" style="color:#5489ef;">13-) Metot Odev 3</a>
 <h3>Sınıflar Ödev</h3>
 
 </div>
