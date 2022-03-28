@@ -4,7 +4,7 @@ package odevler;
 import java.util.Scanner;
 
 public class DizilerPratik2 {
-	// öncelikle diziyi sýralýyoruz
+	// oncelikle diziyi siraliyoruz
 	static void sort(int[] array) {
 
 		for (int i = 0; i < array.length; i++) {
@@ -19,7 +19,7 @@ public class DizilerPratik2 {
 
 	}
 
-	// sýralanan dizide girilen sayýya en yakýn dizi indexini buluyoruz
+	// siralanan dizide girilen sayiya en yakin dizi indexini buluyoruz
 	static int findNearestIndex(int[] array, int sayi) {
 
 		sort(array);
@@ -40,8 +40,8 @@ public class DizilerPratik2 {
 
 	}
 
-	//bulduðumuz en yakýn indexten bir önce ve bir sonraki indexteki deðerlere bakarak
-	//en yakýn index in en yakýn en büyük mü yoksa en yakýn en küçük mü olduðuna karar veriyoruz.
+	//buldugumuz en yakin indexten bir once ve bir sonraki indexteki degerlere bakarak
+	//en yakin index in en yakin en buyuk mu yoksa en yakin en kuçuk mu olduguna karar veriyoruz.
 	static void nearestMaxAndMin(int[] array, int index, int sayi) {
 		int temp1 = array[index + 1];
 		int temp2 = array[index - 1];
