@@ -62,6 +62,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <h3>Sınıflar Ödev</h3>
 <h3>Diziler Ödev</h3>
  <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev1.java" style="color:#5489ef;">1-) Dizideki Elemanları Sıralama</a>
-</div>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev2.java" style="color:#5489ef;">2-) Dizideki Elemanların Tekrar Sayıları</a>
+  </div>
 
 </td></tr></table>  
