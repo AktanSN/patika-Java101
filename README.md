@@ -63,6 +63,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 <h3>Diziler Ödev</h3>
  <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev1.java" style="color:#5489ef;">1-) Dizideki Elemanları Sıralama</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev2.java" style="color:#5489ef;">2-) Dizideki Elemanların Tekrar Sayıları</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerOdev3.java" style="color:#5489ef;">3-) Matris Transpozunu Bulma</a>
   </div>
 
 </td></tr></table>  
