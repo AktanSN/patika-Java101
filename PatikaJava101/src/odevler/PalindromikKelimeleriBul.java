@@ -1,5 +1,7 @@
 package odevler;
 
+import java.util.Scanner;
+
 public class PalindromikKelimeleriBul {
 	
 	static boolean isPalindrome(String str) {
@@ -18,6 +20,15 @@ public class PalindromikKelimeleriBul {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(isPalindrome("abba"));
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.print("Kelime giriniz: ");
+		String kelime = scan.nextLine();
+		
+		if(isPalindrome(kelime)) {
+			System.out.println(kelime + " Palindromik kelimedir");
+		}else {
+			System.out.println(kelime + " Palindromik kelime DEGILDIR");
+		}
 	}
 }
