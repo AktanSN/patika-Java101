@@ -42,7 +42,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik4.java" style="color:#5489ef;">4-) Dizideki tekrar eden çift sayıları bulan program</a>
   <h3>Diğer Konular Pratik</h3>
   <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SayiTahminOyunu.java" style="color:#5489ef;">1-) Sayı Tahmin Oyunu</a>
-  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik4.java" style="color:#5489ef;">2-) Palindromik Kelimeleri Bulan Program</a>
+  <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/PalindromikKelimeleriBul.java" style="color:#5489ef;">2-) Palindromik Kelimeleri Bulan Program</a>
 </div>
 </td><td valign="top" width="50%">
 
