@@ -40,6 +40,8 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik2.java" style="color:#5489ef;">2-) Girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan program</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik3.java" style="color:#5489ef;">3-) "Yıldızlar" ile ekrana "B" harfi yazan program</a>
   <br><a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/DizilerPratik4.java" style="color:#5489ef;">4-) Dizideki tekrar eden çift sayıları bulan program</a>
+  <h3>Diğer Konular Pratik</h3>
+  <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/SayiTahminOyunu.java" style="color:#5489ef;">1-) Sayı Tahmin Oyunu</a>
 </div>
 </td><td valign="top" width="50%">
 
