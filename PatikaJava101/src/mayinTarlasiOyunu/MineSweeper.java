@@ -48,7 +48,7 @@ public class MineSweeper {
 			}
 
 			if (areaSpace[satir][sutun] != '-') {
-				System.out.println("Bu koordinaata daha önce deðer girildi..");
+				System.out.println("Bu koordinata daha önce deðer girildi..");
 				System.out.println("===================================");
 				printArea(areaSpace);
 				continue;
