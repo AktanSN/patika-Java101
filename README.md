@@ -3,9 +3,23 @@
 ````
 Patika.dev Java101 derslerindeki ödevleri içeren repository.
 ````
-<table><tr><td valign="top" width="50%">
-  
+## Mayın Tarlası Oyunu
+````
+Mayın tarlası oyunu Patika.dev Java101 bölüm bitirme projesi olarak yapıldı.
+````
+<div>
+<img src="https://user-images.githubusercontent.com/58556840/162269438-f1eb84c0-bdce-4cf0-808d-5bb31b1efeb1.png" width="300" height="400">
+&nbsp;
+<img src="https://user-images.githubusercontent.com/58556840/162269443-2db83b8a-3fe8-45af-a5c4-08e6a43ad837.png" width="300" height="400">
+</div>
+<br>
 
+
+## Java101 Temel Ders Projeleri
+````
+Patika.dev Java101 kapsamındaki bütün pratik ve ödevler.
+````
+<table><tr><td valign="top" width="50%">
 <div >  
 <h3>Temel Pratik</h3>
 <a href="https://github.com/AktanSN/patika-Java101/blob/main/PatikaJava101/src/odevler/NotOrtalamasi.java" style="color:#5489ef;">1-) Not ortalaması</a>
@@ -71,3 +85,5 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
   </div>
 
 </td></tr></table>  
+
+
