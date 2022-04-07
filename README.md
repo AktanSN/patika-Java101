@@ -7,7 +7,7 @@ Patika.dev Java101 derslerindeki ödevleri içeren repository.
 ````
 Mayın tarlası oyunu Patika.dev Java101 bölüm bitirme projesi olarak yapıldı.
 ````
-<a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/mayinTarlasiOyunu" style="color:#5489ef;"> 1-) Mayın Tarlası Console Oyunu</a>
+<a href="https://github.com/AktanSN/patika-Java101/tree/main/PatikaJava101/src/mayinTarlasiOyunu" style="color:#5489ef;"> 1-) Mayın Tarlası Oyunu</a>
 <div>
 <img src="https://user-images.githubusercontent.com/58556840/162269438-f1eb84c0-bdce-4cf0-808d-5bb31b1efeb1.png" width="300" height="400">
 &nbsp;
